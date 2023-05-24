@@ -1,0 +1,48 @@
+[
+  {
+    "id": "001",
+    "brand": "BMW",
+    "model": "X5",
+    "type": "SUV",
+    "age": 2020,
+    "engine": "3 L"
+  },
+
+  {
+    "id": "002",
+    "brand": "BMW",
+    "model": "X4",
+    "type": "SUV",
+    "age": 2021,
+    "engine": "3.5 L"
+  },
+  
+
+  {
+    "id": "003",
+    "brand": "Mercedes-Benz",
+    "model": "S63",
+    "type": "SEDAN",
+    "age": 2019,
+    "engine": "2.5 L"
+  },
+  
+
+  {
+    "id": "004",
+    "brand": "Bugatti",
+    "model": "Chiron",
+    "type": "HyperCar",
+    "age": 2022,
+    "engine": "3.5 L"
+  },
+  
+  {
+    "id": "005",
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "type": "SportCar",
+    "age": 2023,
+    "engine": "4 L"
+  }
+]

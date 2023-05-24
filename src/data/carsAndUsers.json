@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "user-1",
+    "cars_id": ["001", "002"]
+  },
+
+  {
+    "user_id": "user-2",
+    "cars_id": ["002", "003"]
+  },
+
+  {
+    "user_id": "user-3",
+    "cars_id": ["003", "004"]
+  },
+
+  {
+    "user_id": "user-4",
+    "cars_id": ["004", "005"]
+  },
+
+  {
+    "user_id": "user-5",
+    "cars_id": ["005", "001"]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "user-1",
+    "user_name": "Иван",
+    "surname": "Иванов",
+    "dataofbirth": "05.06.1995",
+    "address": "Адрес пользователя 1"
+  },
+
+  {
+    "id": "user-2",
+    "user_name": "Павел",
+    "surname": "Павлов",
+    "dataofbirth": "18.07.1088",
+    "address": "Адрес пользователя 2"
+  },
+
+  {
+    "id": "user-3",
+    "user_name": "Абрам",
+    "surname": "Абрамов",
+    "dataofbirth": "18.07.1088",
+    "address": "Адрес пользователя 3"
+  },
+
+  {
+    "id": "user-4",
+    "user_name": "Леонид",
+    "surname": "Леонидов",
+    "dataofbirth": "18.07.1088",
+    "address": "Адрес пользователя 4"
+  },
+
+  {
+    "id": "user-5",
+    "user_name": "Максим",
+    "surname": "Максимов",
+    "dataofbirth": "18.07.1088",
+    "address": "Адрес пользователя 5"
+  }
+]
