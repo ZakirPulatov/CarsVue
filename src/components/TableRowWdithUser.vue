@@ -16,10 +16,10 @@
         
         <div v-for="car in item">
           <span v-for="el in arrayKeys">
-            <strong>
-              {{ `${arrayHeaders[el]}: ` }}
+            <strong v-if="arrayHeaders">
+              {{ `${arrayHeaders[el]}: `}}
             </strong>
-            <span>
+            <span v-if="car">
               {{ `${car[el]} ` }}
             </span>
           </span>
